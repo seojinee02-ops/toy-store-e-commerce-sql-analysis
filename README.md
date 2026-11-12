@@ -47,7 +47,12 @@ Six tables:
 | Products | Original Mr. Fuzzy generated approximately **62.47% of product revenue** | Revenue is concentrated in one product. |
 | Products | Birthday Sugar Panda had the **highest gross margin (68.49%)** and the **highest item refund rate (6.04%)** | Profitability and refund incidence should be evaluated together. | 
 
-For calculations, interpretations, and caveats, see [Analysis Notes](analysis_notes.md).
+## Detailed Analysis
+
+For detailed findings, business implications,
+and methodological limitations, see:
+
+[View Detailed Analysis Notes](analysis_notes.md)
 
 ## SQL files 
 | File | Contents | 
