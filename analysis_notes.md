@@ -10,7 +10,7 @@
 
  **Interpretation / limitation:** The dataset covers March 2012 to March 2015; the first and last months are incomplete. Month-to-month comparisons involving those months should be interpreted cautiously. Gross profit is calculated before refund adjustments.
 
- ##2. Marketing & Conversion
+ ## 2. Marketing & Conversion
 
  **Business questions:** Which sources and devices generate purchases most effectively?
 
