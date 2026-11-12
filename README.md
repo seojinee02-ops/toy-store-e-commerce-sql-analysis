@@ -6,8 +6,8 @@ This project analyzes a toy-store e-commerce dataset to understand sales perform
 
 **Goal:** Translate raw transactional and website behavior data into clear, actionable business insights. 
 
-> **Dataset source:** [ADD SOURCE URL ]
->
+> **Dataset source:** [https://mavenanalytics.io/data-playground/toy-store-e-commerce-database]
+
 > **Period covered:** March 2012-March 2015
 
 ## Business questions 
