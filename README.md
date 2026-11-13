@@ -36,6 +36,41 @@ Six tables:
 | 'order_items' | Individual ordered product items |
 | 'order_item_refunds' | Refunded items and refund amounts | 
 
+## Data Visualizations
+
+### 1. Monthly Revenue Growth
+
+![Monthly Revenue Trend](images/monthly_revenue.png)
+
+Monthly revenue increased substantially over the analysis period,
+peaking at $144,823 in December 2014.
+
+*Note: Partial months (March 2012 and March 2015)
+are excluded from this visualization.*
+
+### 2. Marketing Conversion Performance
+
+![Marketing Conversion Rates](images/marketing_cvr.png)
+
+Although bsearch had a higher overall conversion rate,
+gsearch outperformed bsearch within both desktop and mobile
+segments, illustrating Simpson's Paradox.
+
+### 3. Desktop vs Mobile Purchase Funnel
+
+![Purchase Funnel Comparison](images/device_funnel.png)
+
+Mobile sessions had lower conversion rates at every funnel stage.
+The largest device-level gap occurred between Shipping and
+Billing (12.29 percentage points).
+
+### 4. Product Refund Rates
+
+![Product Refund Rates](images/product_refunds.png)
+
+Birthday Sugar Panda had the highest refund rate (6.04%),
+despite achieving the highest gross margin (68.49%).
+
 ## Key findings 
 
 | Area | Finding | Why it matters | 
@@ -46,6 +81,14 @@ Six tables:
 | Funnel | **Shipping --> Billing** had the largest desktop-mobile conversion gap(**12.29 percentage points**) | Examine this stage of the mobile experience; the underlying cause is not established. |
 | Products | Original Mr. Fuzzy generated approximately **62.47% of product revenue** | Revenue is concentrated in one product. |
 | Products | Birthday Sugar Panda had the **highest gross margin (68.49%)** and the **highest item refund rate (6.04%)** | Profitability and refund incidence should be evaluated together. | 
+
+## Detailed Analysis
+
+For additional findings, business implications, and
+methodological limitations, see:
+
+[Detailed Analysis Notes](analysis_notes.md)
+
 
 ## Detailed Analysis
 
