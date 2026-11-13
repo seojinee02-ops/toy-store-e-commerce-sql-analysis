@@ -40,7 +40,7 @@ Six tables:
 
 ### 1. Monthly Revenue Growth
 
-![Monthly Revenue Trend](images/monthly_revenue.png)
+![Monthly Revenue Trend](monthly_revenue.png)
 
 Monthly revenue increased substantially over the analysis period,
 peaking at $144,823 in December 2014.
@@ -50,7 +50,7 @@ are excluded from this visualization.*
 
 ### 2. Marketing Conversion Performance
 
-![Marketing Conversion Rates](images/marketing_cvr.png)
+![Marketing Conversion Rates](marketing_cvr.png)
 
 Although bsearch had a higher overall conversion rate,
 gsearch outperformed bsearch within both desktop and mobile
@@ -58,7 +58,7 @@ segments, illustrating Simpson's Paradox.
 
 ### 3. Desktop vs Mobile Purchase Funnel
 
-![Purchase Funnel Comparison](images/device_funnel.png)
+![Purchase Funnel Comparison](device_funnel.png)
 
 Mobile sessions had lower conversion rates at every funnel stage.
 The largest device-level gap occurred between Shipping and
@@ -66,7 +66,7 @@ Billing (12.29 percentage points).
 
 ### 4. Product Refund Rates
 
-![Product Refund Rates](images/product_refunds.png)
+![Product Refund Rates](product_refunds.png)
 
 Birthday Sugar Panda had the highest refund rate (6.04%),
 despite achieving the highest gross margin (68.49%).
