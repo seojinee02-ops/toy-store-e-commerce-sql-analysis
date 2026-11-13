@@ -84,14 +84,6 @@ despite achieving the highest gross margin (68.49%).
 
 ## Detailed Analysis
 
-For additional findings, business implications, and
-methodological limitations, see:
-
-[Detailed Analysis Notes](analysis_notes.md)
-
-
-## Detailed Analysis
-
 For detailed findings, business implications,
 and methodological limitations, see:
 
